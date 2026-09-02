@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html lang="th">
-<head>
-<meta charset="UTF-8">
-<title>สิทธินัดหยุดงานในกิจการสาธารณูปโภค</title>
-<style>
-  body { font-family: 'Sarabun','Tahoma',sans-serif; max-width: 800px; margin: 30px auto; padding: 20px; line-height: 1.7; color: #222; }
-  h1 { color: #1a3c6e; border-bottom: 3px solid #1a3c6e; padding-bottom: 8px; font-size: 22px; }
-  h2 { color: #2c5aa0; font-size: 16px; margin-top: 16px; margin-bottom: 6px; }
-  p, li { font-size: 13.5px; margin: 5px 0; }
-  ul { padding-left: 22px; margin: 4px 0; }
-  .link-box { margin-top: 18px; padding: 12px 16px; background: #f0f4fa; border-left: 4px solid #1a3c6e; border-radius: 4px; }
-  a { color: #1a3c6e; font-weight: bold; text-decoration: none; }
-</style>
-</head>
-<body>
+
 <h1>สิทธินัดหยุดงานในกิจการสาธารณูปโภค: ดุลยภาพระหว่างสิทธิแรงงานและประโยชน์สาธารณะ</h1>
 
 <h2>บทนำ</h2>
